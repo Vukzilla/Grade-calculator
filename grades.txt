@@ -1,0 +1,16 @@
+Physics - 3, 4, 4
+Chemistry - 4, 3, 5, 5
+Computers and IT - 4, 5, 5, 5
+Music - 5, 5
+Art - 5, 5
+PE - 5, 5, 5
+PN - 5, 5, 5
+Serbian - 4, 5, 5, 4
+PGD - 4, 5
+English - 3, 4, 5, 3
+Russian - 4, 3, 4
+Latin - 4, 4, 3, 5
+History - 5, 5, 4, 3, 4
+Geography - 5, 5, 5
+Biology - 4, 4, 5, 4
+Math - 5, 4, 5, 5
