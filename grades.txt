@@ -1,4 +1,4 @@
-Physics - 3, 4, 4
+Physics - 3, 4, 4, 5
 Chemistry - 4, 3, 5, 5
 Computers and IT - 4, 5, 5, 5
 Music - 5, 5
