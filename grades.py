@@ -17,8 +17,14 @@ with open("grades.txt", "rt") as f:
         score = round(total / count, 2)
         rounded_score = round(score)
 
-        if(score == 1.5 or score == 2.5 or score == 3.5 or score == 4.5):
-            rounded_score = rounded_score + 1
+        if(score == 1.5):
+            rounded_score = 2
+        if(score == 2.5):
+            rounded_score = 3
+        if(score == 3.5):
+            rounded_score = 4
+        if(score == 4.5):
+            rounded_score = 5
 
         totalscore += rounded_score
         print(score, rounded_score)
